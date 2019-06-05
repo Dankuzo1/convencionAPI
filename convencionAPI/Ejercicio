@@ -1,0 +1,18 @@
+El ejercicio es:
+Hacer un API Rest que para el registro de personas a una convención.
+Debe permitir: 
+
+- Registrar
+- eliminar 
+- consultar las personas que se inscriban
+
+También debe tener endpoints que permitan sacar estadisticas:
+
+- Cantidad de personas inscritas,
+- edad promedio 
+- y otros valores que consideres)
+
+Condiciones:
+
+- Usar mongodb como base de datos
+- Debe estar hecho con Go
